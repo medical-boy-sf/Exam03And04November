@@ -1,0 +1,11 @@
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\bin\Debug\netcoreapp2.2\01.WeddingTime.deps.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\bin\Debug\netcoreapp2.2\01.WeddingTime.runtimeconfig.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\bin\Debug\netcoreapp2.2\01.WeddingTime.runtimeconfig.dev.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\bin\Debug\netcoreapp2.2\01.WeddingTime.dll
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\bin\Debug\netcoreapp2.2\01.WeddingTime.pdb
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.AssemblyInfoInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.AssemblyInfo.cs
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.dll
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingTime\obj\Debug\netcoreapp2.2\01.WeddingTime.pdb
