@@ -1,0 +1,11 @@
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\bin\Debug\netcoreapp2.2\02.WeddingParty.deps.json
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\bin\Debug\netcoreapp2.2\02.WeddingParty.runtimeconfig.json
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\bin\Debug\netcoreapp2.2\02.WeddingParty.runtimeconfig.dev.json
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\bin\Debug\netcoreapp2.2\02.WeddingParty.dll
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\bin\Debug\netcoreapp2.2\02.WeddingParty.pdb
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.AssemblyInfoInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.AssemblyInfo.cs
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.dll
+C:\Users\someo\source\repos\Exam03And04November\02.WeddingParty\obj\Debug\netcoreapp2.2\02.WeddingParty.pdb

@@ -1,0 +1,11 @@
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\bin\Debug\netcoreapp2.2\01.WeddingHall.deps.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\bin\Debug\netcoreapp2.2\01.WeddingHall.runtimeconfig.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\bin\Debug\netcoreapp2.2\01.WeddingHall.runtimeconfig.dev.json
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\bin\Debug\netcoreapp2.2\01.WeddingHall.dll
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\bin\Debug\netcoreapp2.2\01.WeddingHall.pdb
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.AssemblyInfoInputs.cache
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.AssemblyInfo.cs
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.dll
+C:\Users\someo\source\repos\Exam03And04November\01.WeddingHall\obj\Debug\netcoreapp2.2\01.WeddingHall.pdb
