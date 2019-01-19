@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/theflash/RiderProjects/Exam03And04November/01.WeddingTime/01.WeddingTime.csproj",
-      "projectName": "01.WeddingTime",
-      "projectPath": "/home/theflash/RiderProjects/Exam03And04November/01.WeddingTime/01.WeddingTime.csproj",
+      "projectUniqueName": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/_03.MaidenParty.csproj",
+      "projectName": "_03.MaidenParty",
+      "projectPath": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/_03.MaidenParty.csproj",
       "packagesPath": "/home/theflash/.nuget/packages/",
-      "outputPath": "/home/theflash/RiderProjects/Exam03And04November/01.WeddingTime/obj/",
+      "outputPath": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

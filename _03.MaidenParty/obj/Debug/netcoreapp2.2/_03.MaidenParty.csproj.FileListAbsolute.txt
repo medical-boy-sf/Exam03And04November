@@ -1,0 +1,11 @@
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/bin/Debug/netcoreapp2.2/_03.MaidenParty.deps.json
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/bin/Debug/netcoreapp2.2/_03.MaidenParty.runtimeconfig.json
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/bin/Debug/netcoreapp2.2/_03.MaidenParty.runtimeconfig.dev.json
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/bin/Debug/netcoreapp2.2/_03.MaidenParty.dll
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/bin/Debug/netcoreapp2.2/_03.MaidenParty.pdb
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.csprojAssemblyReference.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.csproj.CoreCompileInputs.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.AssemblyInfoInputs.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.AssemblyInfo.cs
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.dll
+/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/Debug/netcoreapp2.2/_03.MaidenParty.pdb
