@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/_03.MaidenParty.csproj",
-    "projectName": "_03.MaidenParty",
-    "projectPath": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/_03.MaidenParty.csproj",
-    "outputPath": "/home/theflash/RiderProjects/Exam03And04November/_03.MaidenParty/obj/",
+    "projectUniqueName": "/home/theflash/RiderProjects/Exam03And04November/_02.MaidenParty/_02.MaidenParty.csproj",
+    "projectName": "_02.MaidenParty",
+    "projectPath": "/home/theflash/RiderProjects/Exam03And04November/_02.MaidenParty/_02.MaidenParty.csproj",
+    "outputPath": "/home/theflash/RiderProjects/Exam03And04November/_02.MaidenParty/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
