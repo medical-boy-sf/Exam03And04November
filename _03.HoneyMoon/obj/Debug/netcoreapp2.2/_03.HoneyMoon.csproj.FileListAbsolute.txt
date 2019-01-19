@@ -1,0 +1,11 @@
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/bin/Debug/netcoreapp2.2/_03.HoneyMoon.deps.json
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/bin/Debug/netcoreapp2.2/_03.HoneyMoon.runtimeconfig.json
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/bin/Debug/netcoreapp2.2/_03.HoneyMoon.runtimeconfig.dev.json
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/bin/Debug/netcoreapp2.2/_03.HoneyMoon.dll
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/bin/Debug/netcoreapp2.2/_03.HoneyMoon.pdb
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.csprojAssemblyReference.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.csproj.CoreCompileInputs.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.AssemblyInfoInputs.cache
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.AssemblyInfo.cs
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.dll
+/home/theflash/RiderProjects/Exam03And04November/_03.HoneyMoon/obj/Debug/netcoreapp2.2/_03.HoneyMoon.pdb
