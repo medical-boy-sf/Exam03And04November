@@ -9,7 +9,6 @@ namespace _01.WeddingHall
             double length = double.Parse(Console.ReadLine());
             double width = double.Parse(Console.ReadLine());
             double sideBar = double.Parse(Console.ReadLine());
-            string message = String.Empty;
 
             double totalArea = width * length;
             double barArea = Math.Pow(sideBar, 2);
