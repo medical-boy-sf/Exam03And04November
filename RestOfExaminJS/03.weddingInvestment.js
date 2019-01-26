@@ -1,5 +1,10 @@
-function weddingInvestment(periodContract, typeContract, desert, numberMonths) {
+"use strict"
+function weddingInvestment(input) {
     let monthTax = 0;
+		let periodContract = input.shift();
+		let typeContract = input.shift();
+		let desert = input.shift();
+		let numberMonths = input.shift();
 
     if (periodContract === "one") {
         if (typeContract === "Small") {
